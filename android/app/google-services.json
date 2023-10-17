@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058885263666",
+    "project_id": "flutter-daily-report",
+    "storage_bucket": "flutter-daily-report.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058885263666:android:8a3927a639cafc7478b72b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_daily_report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058885263666-1m05bnh88jh1n0tq5j7sijmr31i9g3vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_hNjwtJoxDxH1gM6QoyvDXsHYcgA1ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058885263666-1m05bnh88jh1n0tq5j7sijmr31i9g3vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
